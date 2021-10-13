@@ -1,0 +1,14 @@
+D:\DonguriV2\DonguriUser\bin\Debug\DonguriUser.dll
+D:\DonguriV2\DonguriUser\bin\Debug\DonguriUser.pdb
+D:\DonguriV2\DonguriUser\bin\Debug\DonguriUser.xml
+D:\DonguriV2\DonguriUser\bin\Debug\DonguriLib.dll
+D:\DonguriV2\DonguriUser\bin\Debug\DonguriLib.pdb
+D:\DonguriV2\DonguriUser\bin\Debug\DonguriLib.xml
+D:\DonguriV2\DonguriUser\obj\Debug\ResolveAssemblyReference.cache
+D:\DonguriV2\DonguriUser\obj\Debug\DonguriUser.Resources.resources
+D:\DonguriV2\DonguriUser\obj\Debug\DonguriUser.UserReg.resources
+D:\DonguriV2\DonguriUser\obj\Debug\DonguriUser.UserSelect.resources
+D:\DonguriV2\DonguriUser\obj\Debug\DonguriUser.vbproj.GenerateResource.Cache
+D:\DonguriV2\DonguriUser\obj\Debug\DonguriUser.dll
+D:\DonguriV2\DonguriUser\obj\Debug\DonguriUser.xml
+D:\DonguriV2\DonguriUser\obj\Debug\DonguriUser.pdb

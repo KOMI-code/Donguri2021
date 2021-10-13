@@ -1,0 +1,14 @@
+D:\DonguriV2\DonguriPay\obj\Debug\ResolveAssemblyReference.cache
+D:\DonguriV2\DonguriPay\obj\Debug\DonguriPay.Resources.resources
+D:\DonguriV2\DonguriPay\obj\Debug\DonguriPay.PayReg.resources
+D:\DonguriV2\DonguriPay\obj\Debug\DonguriPay.PaySelect.resources
+D:\DonguriV2\DonguriPay\obj\Debug\DonguriPay.vbproj.GenerateResource.Cache
+D:\DonguriV2\DonguriPay\bin\Debug\DonguriPay.dll
+D:\DonguriV2\DonguriPay\bin\Debug\DonguriPay.pdb
+D:\DonguriV2\DonguriPay\bin\Debug\DonguriPay.xml
+D:\DonguriV2\DonguriPay\bin\Debug\DonguriLib.dll
+D:\DonguriV2\DonguriPay\bin\Debug\DonguriLib.pdb
+D:\DonguriV2\DonguriPay\bin\Debug\DonguriLib.xml
+D:\DonguriV2\DonguriPay\obj\Debug\DonguriPay.dll
+D:\DonguriV2\DonguriPay\obj\Debug\DonguriPay.xml
+D:\DonguriV2\DonguriPay\obj\Debug\DonguriPay.pdb

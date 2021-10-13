@@ -1,0 +1,15 @@
+D:\DonguriV2\DonguriPrint\bin\Debug\DonguriPrint.dll
+D:\DonguriV2\DonguriPrint\bin\Debug\DonguriPrint.pdb
+D:\DonguriV2\DonguriPrint\bin\Debug\DonguriPrint.xml
+D:\DonguriV2\DonguriPrint\bin\Debug\DonguriLib.dll
+D:\DonguriV2\DonguriPrint\bin\Debug\DonguriLib.pdb
+D:\DonguriV2\DonguriPrint\bin\Debug\DonguriLib.xml
+D:\DonguriV2\DonguriPrint\obj\Debug\ResolveAssemblyReference.cache
+D:\DonguriV2\DonguriPrint\obj\Debug\DonguriPrint.Resources.resources
+D:\DonguriV2\DonguriPrint\obj\Debug\DonguriPrint.ScheduleDay.resources
+D:\DonguriV2\DonguriPrint\obj\Debug\DonguriPrint.ScheduleMonth.resources
+D:\DonguriV2\DonguriPrint\obj\Debug\DonguriPrint.vbproj.GenerateResource.Cache
+D:\DonguriV2\DonguriPrint\obj\Debug\DonguriPrint.dll
+D:\DonguriV2\DonguriPrint\obj\Debug\DonguriPrint.xml
+D:\DonguriV2\DonguriPrint\obj\Debug\DonguriPrint.pdb
+D:\DonguriV2\DonguriPrint\obj\Debug\DonguriPrint.JobTimeMonth.resources

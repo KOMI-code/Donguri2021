@@ -1,0 +1,13 @@
+C:\Users\komi\dev\Donguri2021\Donguri2021\bin\Debug\Donguri2021.exe.config
+C:\Users\komi\dev\Donguri2021\Donguri2021\bin\Debug\Donguri2021.exe
+C:\Users\komi\dev\Donguri2021\Donguri2021\bin\Debug\Donguri2021.pdb
+C:\Users\komi\dev\Donguri2021\Donguri2021\bin\Debug\System.Data.SQLite.dll
+C:\Users\komi\dev\Donguri2021\Donguri2021\bin\Debug\System.Data.SQLite.xml
+C:\Users\komi\dev\Donguri2021\Donguri2021\obj\Debug\Donguri2021.csproj.AssemblyReference.cache
+C:\Users\komi\dev\Donguri2021\Donguri2021\obj\Debug\Donguri2021.FrmMain.resources
+C:\Users\komi\dev\Donguri2021\Donguri2021\obj\Debug\Donguri2021.Properties.Resources.resources
+C:\Users\komi\dev\Donguri2021\Donguri2021\obj\Debug\Donguri2021.csproj.GenerateResource.cache
+C:\Users\komi\dev\Donguri2021\Donguri2021\obj\Debug\Donguri2021.csproj.CoreCompileInputs.cache
+C:\Users\komi\dev\Donguri2021\Donguri2021\obj\Debug\Donguri2021.csproj.CopyComplete
+C:\Users\komi\dev\Donguri2021\Donguri2021\obj\Debug\Donguri2021.exe
+C:\Users\komi\dev\Donguri2021\Donguri2021\obj\Debug\Donguri2021.pdb

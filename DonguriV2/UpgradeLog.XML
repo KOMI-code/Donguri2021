@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DonguriV2">
+</Property><Property Name="ソリューション ファイル" Value="D:\KOMI-WORK\donguri\DonguriV2\DonguriV2.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="D:\KOMI-WORK\donguri\DonguriV2\DonguriV2.suo">
+</Property><Property Name="Date" Value="2011年1月27日">
+</Property><Property Name="Time" Value="20:30">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DonguriV2.sln" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriV2.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="DonguriV2.suo" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriV2.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\DonguriMenu.vbproj" Description="プロジェクト ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriMenu\DonguriMenu.vbproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\Menu.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriMenu\Menu.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\Menu.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriMenu\Menu.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\MonthExport.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriMenu\MonthExport.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\MonthExport.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriMenu\MonthExport.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\My Project\AssemblyInfo.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriMenu\My Project\AssemblyInfo.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\My Project\Application.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriMenu\My Project\Application.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\My Project\Resources.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriMenu\My Project\Resources.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\My Project\Settings.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriMenu\My Project\Settings.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\My Project\Application.myapp" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriMenu\My Project\Application.myapp としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\My Project\Settings.settings" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriMenu\My Project\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\donguri.ico" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriMenu\donguri.ico としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\Menu.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriMenu\Menu.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\MonthExport.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriMenu\MonthExport.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\My Project\Resources.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriMenu\My Project\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\DonguriMenu.vbproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="DonguriMenu" Source="DonguriMenu\DonguriMenu.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DonguriLib" Source="DonguriLib\DonguriLib.vbproj" Description="プロジェクト ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriLib\DonguriLib.vbproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriLib" Source="DonguriLib\LibClass.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriLib\LibClass.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriLib" Source="DonguriLib\My Project\AssemblyInfo.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriLib\My Project\AssemblyInfo.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriLib" Source="DonguriLib\My Project\Application.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriLib\My Project\Application.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriLib" Source="DonguriLib\My Project\Resources.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriLib\My Project\Resources.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriLib" Source="DonguriLib\My Project\Settings.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriLib\My Project\Settings.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriLib" Source="DonguriLib\My Project\Application.myapp" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriLib\My Project\Application.myapp としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriLib" Source="DonguriLib\My Project\Settings.settings" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriLib\My Project\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriLib" Source="DonguriLib\My Project\Resources.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriLib\My Project\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriLib" Source="DonguriLib\DonguriLib.vbproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="DonguriLib" Source="DonguriLib\DonguriLib.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\DonguriUser.vbproj" Description="プロジェクト ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriUser\DonguriUser.vbproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\My Project\AssemblyInfo.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriUser\My Project\AssemblyInfo.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\My Project\Application.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriUser\My Project\Application.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\My Project\Resources.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriUser\My Project\Resources.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\My Project\Settings.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriUser\My Project\Settings.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\UserReg.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriUser\UserReg.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\UserReg.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriUser\UserReg.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\UserSelect.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriUser\UserSelect.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\UserSelect.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriUser\UserSelect.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\My Project\Application.myapp" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriUser\My Project\Application.myapp としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\My Project\Settings.settings" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriUser\My Project\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\My Project\Resources.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriUser\My Project\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\UserReg.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriUser\UserReg.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\UserSelect.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriUser\UserSelect.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\DonguriUser.vbproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="DonguriUser" Source="DonguriUser\DonguriUser.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\DonguriHelper.vbproj" Description="プロジェクト ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriHelper\DonguriHelper.vbproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\HelperReg.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriHelper\HelperReg.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\HelperReg.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriHelper\HelperReg.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\HelperSelect.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriHelper\HelperSelect.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\HelperSelect.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriHelper\HelperSelect.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\My Project\AssemblyInfo.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriHelper\My Project\AssemblyInfo.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\My Project\Application.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriHelper\My Project\Application.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\My Project\Resources.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriHelper\My Project\Resources.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\My Project\Settings.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriHelper\My Project\Settings.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\My Project\Application.myapp" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriHelper\My Project\Application.myapp としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\My Project\Settings.settings" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriHelper\My Project\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\HelperReg.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriHelper\HelperReg.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\HelperSelect.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriHelper\HelperSelect.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\My Project\Resources.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriHelper\My Project\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\DonguriHelper.vbproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="DonguriHelper" Source="DonguriHelper\DonguriHelper.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DonguriCalendar" Source="DonguriCalendar\DonguriCalendar.vbproj" Description="プロジェクト ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriCalendar\DonguriCalendar.vbproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriCalendar" Source="DonguriCalendar\Calendar.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriCalendar\Calendar.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriCalendar" Source="DonguriCalendar\Calendar.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriCalendar\Calendar.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriCalendar" Source="DonguriCalendar\My Project\AssemblyInfo.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriCalendar\My Project\AssemblyInfo.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriCalendar" Source="DonguriCalendar\My Project\Application.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriCalendar\My Project\Application.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriCalendar" Source="DonguriCalendar\My Project\Resources.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriCalendar\My Project\Resources.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriCalendar" Source="DonguriCalendar\My Project\Settings.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriCalendar\My Project\Settings.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriCalendar" Source="DonguriCalendar\My Project\Application.myapp" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriCalendar\My Project\Application.myapp としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriCalendar" Source="DonguriCalendar\My Project\Settings.settings" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriCalendar\My Project\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriCalendar" Source="DonguriCalendar\Calendar.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriCalendar\Calendar.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriCalendar" Source="DonguriCalendar\My Project\Resources.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriCalendar\My Project\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriCalendar" Source="DonguriCalendar\DonguriCalendar.vbproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="DonguriCalendar" Source="DonguriCalendar\DonguriCalendar.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\DonguriSchedule.vbproj" Description="プロジェクト ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\DonguriSchedule.vbproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\ErrorCheck.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\ErrorCheck.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\ErrorCheck.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\ErrorCheck.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\My Project\AssemblyInfo.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\My Project\AssemblyInfo.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\My Project\Application.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\My Project\Application.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\My Project\Resources.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\My Project\Resources.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\My Project\Settings.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\My Project\Settings.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\Schedule.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\Schedule.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\Schedule.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\Schedule.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\Update.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\Update.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\Update.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\Update.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\My Project\Application.myapp" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\My Project\Application.myapp としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\My Project\Settings.settings" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\My Project\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\ErrorCheck.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\ErrorCheck.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\My Project\Resources.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\My Project\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\Schedule.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\Schedule.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\Update.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriSchedule\Update.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\DonguriSchedule.vbproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="DonguriSchedule" Source="DonguriSchedule\DonguriSchedule.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\DonguriPrint.vbproj" Description="プロジェクト ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\DonguriPrint.vbproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\JobTimeMonth.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\JobTimeMonth.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\JobTimeMonth.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\JobTimeMonth.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\My Project\AssemblyInfo.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\My Project\AssemblyInfo.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\My Project\Application.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\My Project\Application.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\My Project\Resources.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\My Project\Resources.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\My Project\Settings.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\My Project\Settings.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\ScheduleDay.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\ScheduleDay.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\ScheduleDay.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\ScheduleDay.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\ScheduleMonth.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\ScheduleMonth.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\ScheduleMonth.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\ScheduleMonth.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\My Project\Application.myapp" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\My Project\Application.myapp としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\My Project\Settings.settings" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\My Project\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\JobTimeMonth.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\JobTimeMonth.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\My Project\Resources.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\My Project\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\ScheduleDay.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\ScheduleDay.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\ScheduleMonth.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPrint\ScheduleMonth.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\DonguriPrint.vbproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="DonguriPrint" Source="DonguriPrint\DonguriPrint.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\DonguriPay.vbproj" Description="プロジェクト ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPay\DonguriPay.vbproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\My Project\AssemblyInfo.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPay\My Project\AssemblyInfo.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\My Project\Application.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPay\My Project\Application.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\My Project\Resources.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPay\My Project\Resources.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\My Project\Settings.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPay\My Project\Settings.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\PayReg.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPay\PayReg.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\PayReg.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPay\PayReg.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\PaySelect.Designer.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPay\PaySelect.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\PaySelect.vb" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPay\PaySelect.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\My Project\Application.myapp" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPay\My Project\Application.myapp としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\My Project\Settings.settings" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPay\My Project\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\My Project\Resources.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPay\My Project\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\PayReg.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPay\PayReg.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\PaySelect.resx" Description="ファイルは正常に D:\KOMI-WORK\donguri\DonguriV2\Backup1\DonguriPay\PaySelect.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\DonguriPay.vbproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="DonguriPay" Source="DonguriPay\DonguriPay.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DonguriV2.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="DonguriV2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DonguriMenu" Source="DonguriMenu\DonguriMenu.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event><Event ErrorLevel="0" Project="DonguriLib" Source="DonguriLib\DonguriLib.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event><Event ErrorLevel="0" Project="DonguriUser" Source="DonguriUser\DonguriUser.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event><Event ErrorLevel="0" Project="DonguriHelper" Source="DonguriHelper\DonguriHelper.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event><Event ErrorLevel="0" Project="DonguriCalendar" Source="DonguriCalendar\DonguriCalendar.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event><Event ErrorLevel="0" Project="DonguriSchedule" Source="DonguriSchedule\DonguriSchedule.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event><Event ErrorLevel="0" Project="DonguriPrint" Source="DonguriPrint\DonguriPrint.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event><Event ErrorLevel="0" Project="DonguriPay" Source="DonguriPay\DonguriPay.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>
